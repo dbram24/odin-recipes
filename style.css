@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    background-color: bisque;
 }
 
 *,
@@ -13,4 +14,14 @@ body {
     font-size: large;
 }
 
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+}
 
+.links {
+    text-align: left;
+    background-color: lightblue;
+    width: auto;
+    padding: 5%;
+}
