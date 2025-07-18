@@ -31,4 +31,5 @@ img {
     background-color: lightblue;
     width: auto;
     padding: 5%;
+    border: 4px solid black;
 }
