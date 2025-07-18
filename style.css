@@ -14,9 +14,16 @@ body {
     font-size: large;
 }
 
-h1 {
+h1,
+h2 {
     text-align: center;
     margin-bottom: 15px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
 }
 
 .links {
